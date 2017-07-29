@@ -35,7 +35,7 @@ Inspire by [mr-mig](https://github.com/mr-mig)
 
 ## English
 
-- [ ] English Pronunciation in Use Elementary [📖](http://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-pronunciation-use-elementary) 
+- [ ] English Pronunciation in Use Elementary [📖](http://www.cambridge.org/us/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-pronunciation-use-elementary) [🔗](http://www.alleng.ru/d/engl_en/eng068.htm)
 - [ ] Grammarway 1 by Jenny Dooley [📖](https://www.bookdepository.com/Grammarway-1-Students-Book-1-Jenny-Dooley/9781844665945) 
 - [ ] Grammarway 2 by Jenny Dooley [📖](https://www.bookdepository.com/Grammarway-Students-Book-Level-2-Jenny-Dooley-Virgini-Evans/9781844665969) 
 - [ ] Grammarway 3 by Jenny Dooley [📖](https://www.bookdepository.com/Grammarway-3-Dooley-Jenny-Evans-Virgini/9789603611653) 
